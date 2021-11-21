@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f9f9f9;
+}
+
+.Header_Logo {
+  height: 40px;
+  object-fit: contain;
+}
+
+.Header_icon {
+  padding: 20px;
+  
+}
